@@ -1,2 +1,2 @@
 # asuhelloworld-deveshmohanta
-Class activity
+Class activity for CSE360
